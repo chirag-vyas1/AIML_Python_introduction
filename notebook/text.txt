@@ -1,1 +1,16 @@
-https://github.com/chirag-vyas1/AIML_Python_introduction.git
+
+1) cd "C:\Users\Chirag Pc\Desktop\AIML-Linear-regrssion-autompg\1. AIML-introduction_to_python(let_us_C)\AIML_Python_introduction"
+
+2) git init
+
+3) git add .
+
+4) git remote remove origin
+
+5) git add .
+
+6) git commit -m"commit 27-9-2025 13.53"
+
+7)git remote add  origin https://github.com/chirag-vyas1/AIML_Python_introduction.git
+
+8) git push -u origin main
